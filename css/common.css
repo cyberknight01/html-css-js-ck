@@ -1,8 +1,14 @@
 .color-main {
-  color: red; }
+  color: #00aab7; }
 
 .color-second {
   color: #b45d01; }
 
 .text-main {
   color: #010101; }
+
+.container {
+  width: 1200px;
+  margin: auto;
+  background-color: black;
+  color: white; }
