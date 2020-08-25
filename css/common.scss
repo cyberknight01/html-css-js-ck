@@ -15,13 +15,18 @@
 .container {
     width: $container;
     margin: 0 auto;
-    background-color: red;
-    color: white;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
 }
 
 //logo
 .logo {
-    float: left;
     margin-top: 30px;
     margin-bottom: 30px;
     img {
